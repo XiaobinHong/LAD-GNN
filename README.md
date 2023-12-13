@@ -1,4 +1,4 @@
 # LAD-GNN
 The source code of LAD-GNN.
 
-### It will accessible after AAAI conference.
+### It will be accessible after the AAAI conference.
