@@ -1,0 +1,2 @@
+2024-04-30 13:10:08 Train Mode: T test_avg_acc: 1.0000, test_std_acc: 0.0000, AUC: 1.0000, F1: 1.0000
+2024-04-30 13:11:09 Train Mode: S test_avg_acc: 0.7895, test_std_acc: 0.0000, AUC: 0.9405, F1: 0.7931
