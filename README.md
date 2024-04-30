@@ -1,6 +1,6 @@
 ### LAD-GNN: Label Attentive Distillation for GNN-Based Graph Classification
 ----------------------
-The implementation for "Label Attentive Distillation for GNN-Based Graph Classification" which is accepted to AAAI 2024.
+The implementation for "Label Attentive Distillation for GNN-Based Graph Classification" which is accepted to AAAI24.
 
 #### Motivation
 <img src="Figures/motivation_fig.jpg" width="800">
@@ -10,8 +10,9 @@ The implementation for "Label Attentive Distillation for GNN-Based Graph Classif
 - Due to the lack of labeled inputs during training and testing, we propose a framework for labeled attentive self-distillation, which achieves labeled embedding attention while ensuring no information leakage.
 
 Similar intuition can be found in the following CV task work:
-[1] Miao Hao, et al. LabelEnc: A New Intermediate Supervision Method for Object Detection. ECCV 2020.
-[2] Yaomin Huang, et al. Label-Guided Auxiliary Training Improves 3D Object Detector. ECCV 2022.
+
+[1] Miao Hao, et al. LabelEnc: A New Intermediate Supervision Method for Object Detection. ECCV 2020.\
+[2] Yaomin Huang, et al. Label-Guided Auxiliary Training Improves 3D Object Detector. ECCV 2022.\
 [3] Peizhen Zhang, et al. LGD: Label-guided Self-distillation for Object Detection. AAAI2022.
 
 #### Overall Framework
